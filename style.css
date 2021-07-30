@@ -30,7 +30,7 @@ body {
 
 .swiper-slide {
     background-size: cover;
-    box-sizing: border-box;
+    box-sizing: content-box;
     padding: 8em 3em;
     color: white;
  
