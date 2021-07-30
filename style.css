@@ -33,6 +33,9 @@ body {
     box-sizing: border-box;
     padding: 8em 3em;
     color: white;
+    border width: 35px;
+    border-style: ridge;
+    border-color: grey;
     font-family: 'Juliette';
     background-size: cover !important;
 
