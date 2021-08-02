@@ -39,10 +39,12 @@ body {
     box-sizing: border-box;
     padding: 8em 3em;
     color: white;
- 
-    border-width: 15px;
+    filter: drop-shadow(0px 30px 100px green);
+    border-width: 20px;
+    
     border-style: ridge;
     border-color: dimgrey;
+    
     font-family: 'Montserrat';
     background-size: cover !important;
 
