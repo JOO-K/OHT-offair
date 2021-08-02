@@ -39,7 +39,7 @@ body {
     box-sizing: border-box;
     padding: 8em 3em;
     color: white;
-    filter: drop-shadow(0px 30px 100px green);
+    filter: ;
     border-width: 20px;
     
     border-style: ridge;
