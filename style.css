@@ -36,22 +36,24 @@ body {
 }
 
 .swiper-slide {
-    background-size: cover;
+    background-size: auto;
     box-sizing: border-box;
     
-    color: white;
+    color: black;
     filter: ;
-    border-width: 20px;
+/*    border-width: 20px;*/
     
+/*
     border-style: ridge;
     border-color: dimgrey;
+*/
     
-    font-family: 'Montserrat';
+    font-family: 'juliette';
     background-size: cover !important;
 
     h1 {
-        font-size: 5em;
-        line-height: 1em;
+        font-size: 10px;
+        line-height: 13px;
 
         &:before {
             content: ' ';
@@ -73,7 +75,7 @@ body {
 }
 
 .slide1 {
-    background: url('https://pa1.narvii.com/6568/49a95b9c1f348df91ecf8e7751dca89d7623ffdb_hq.gif');
+    background: url('img/mobileframe.png');
 
     h1:before {
         border-left: 1px solid #fff;
